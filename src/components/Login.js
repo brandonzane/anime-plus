@@ -108,5 +108,4 @@ vertical-align: bottom;
 width: 30%;
 `;
 
-
 export default Login
