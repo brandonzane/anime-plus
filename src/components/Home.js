@@ -1,9 +1,9 @@
-// import styled from "styled-components"
+import styled from "styled-components"
 
 
-// const Home = (props) => {
-//     return <div>Home</div>
-// }
+const Home = (props) => {
+    return <div>Home</div>
+}
 
 
-// export default Home
+export default Home
