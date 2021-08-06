@@ -10,6 +10,7 @@ const Header = (props) => {
             alert(error.message)
         })
     }
+    
     return( 
         <Nav>
             <Logo>
@@ -43,8 +44,8 @@ const Header = (props) => {
             </NavMenu>
             <Login onClick={handleAuth}>Login</Login>
         </Nav>
-    )
-}
+    );
+};
 
 const Nav = styled.nav`
   position: fixed;

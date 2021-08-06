@@ -1,15 +1,16 @@
 import firebase from "firebase"
 
 const firebaseConfig = {
+  apiKey: "AIzaSyBhnz_whUdqaTB896XYzdkMTV4Oz9T5f88",
+  authDomain: "anime-plus-937b5.firebaseapp.com",
+  projectId: "anime-plus-937b5",
+  storageBucket: "anime-plus-937b5.appspot.com",
+  messagingSenderId: "678124948372",
+  appId: "1:678124948372:web:ed28567bb5a872da969d81",
+  measurementId: "G-VE2ETF7HL4"
+};
 
-    apiKey: "AIzaSyC8E_TSP6U36UISz-yLIl7Quw4qQ5d-YFg",
-    authDomain: "anime-plus-bb54d.firebaseapp.com",
-    projectId: "anime-plus-bb54d",
-    storageBucket: "anime-plus-bb54d.appspot.com",
-    messagingSenderId: "551268002733",
-    appId: "1:551268002733:web:3724a803929027a7e7cf24",
-    measurementId: "G-99ET6H7F4G"
-  };
+
 
   const firebaseApp = firebase.initializeApp(firebaseConfig);
   const db = firebaseApp.firestore();
