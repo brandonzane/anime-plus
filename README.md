@@ -1,1 +1,1 @@
-This is the disney plus clone. I built it using React and styled components.
+This is an Anime site inspired by the disney plus website. I built it using React, Redux, Firebase and Styled components.
