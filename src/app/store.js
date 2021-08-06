@@ -4,7 +4,7 @@ import userReducer from "../features/user/userSlice";
 
 export default configureStore({
   reducer: {
-    user: userReducer,
+    user: userReducer
     // movie: movieReducer,
   },
   middleware: getDefaultMiddleware({
