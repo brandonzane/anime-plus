@@ -82,6 +82,7 @@ const Wrap = styled.div`
         opacity: 0;
         z-index: 0;
     }
+    
     &:hover {
         box-shadow: rgb(0 0 0 / 80%) 0px 40px 58px -16px,
         rgb(0 0 0 / 72%) 0px 30px 22px -10px;
