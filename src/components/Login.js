@@ -9,7 +9,7 @@ const Login = (props) => {
                 <SignUp>GET IT ALL HERE</SignUp>
                 <Description>
                     <p>Get Premier access to Bleach for an additional fee with an
-                        Anime+ subscription. As of 03/26/21, the price of Anime + 
+                        Anime+ subscription. As of 25/12/21, the price of Anime + 
                         and The Anime Bundle will increase by $1</p>
                 </Description>
                 <CTALogoTwo src="/images/anime-logo-2.png" alt="" />

@@ -1,7 +1,7 @@
-import firebase from "firebase"
+import firebase from "firebase";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBhnz_whUdqaTB896XYzdkMTV4Oz9T5f88",
+  apiKey: process.env.REACT_APP_MY_API_KEY,
   authDomain: "anime-plus-937b5.firebaseapp.com",
   projectId: "anime-plus-937b5",
   storageBucket: "anime-plus-937b5.appspot.com",
