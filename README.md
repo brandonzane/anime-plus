@@ -1,6 +1,6 @@
 # Anime + Streaming app with React App
 
-[![follow @brandonzane](https://img.shields.io/twitter/follow/calebnance.svg?style=for-the-badge&logo=TWITTER&logoColor=FFFFFF&labelColor=00aced&logoWidth=20&color=lightgray)](https://twitter.com/brandonzane)
+[![follow @brandonzane]
 
 This is an Anime site inspired by the Disney Plus streaming platform. I built it using React, Redux, Firebase and Styled components.
 
