@@ -1,6 +1,6 @@
 # Anime + Streaming app with React App
 
-[![follow @brandonzane]
+
 
 This is an Anime site inspired by the Disney Plus streaming platform. I built it using React, Redux, Firebase and Styled components.
 
